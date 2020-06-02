@@ -1,0 +1,30 @@
+ body{
+	 background-color: yellow;
+ }
+ 
+ h1{
+font-size: 28px; 
+color: #DE4D2E;
+}
+h2{
+font-size: 28px; 
+color: hotpink;
+}
+h2{
+color: hotpink ;
+}
+.big{
+	font-size: 34px ;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.big.uppercase{
+ font-family: Lucida Console;
+ 
+}
+span{
+ color: #6D2B1C ;
+}
+
+	
